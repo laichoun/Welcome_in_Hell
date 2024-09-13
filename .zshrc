@@ -9,4 +9,3 @@ alias pwd="echo /home/$USER"
 alias cd="echo -n"
 alias alias=""
 alias command=""
-cd
