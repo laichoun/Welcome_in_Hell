@@ -1,1 +1,1 @@
-Co writted by Pierre Bernard aka pibernar
+Co written by Pierre Bernard aka pibernar
